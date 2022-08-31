@@ -2,15 +2,15 @@
 body {
     text-align: center;
     margin: 0px;
-    font-family: "Comic Sans MS";
+    font-family: "Nunito";
 }
 
 .about {
-    background-color: yellow;
+    background-color: white;
     padding: 0px;
 }
 
 .projects {
-    background-color: yellow;
+    background-color: white;
     padding: 10px;
 }
