@@ -2,7 +2,7 @@
 body {
     text-align: center;
     margin: 0px;
-    font-family: "Courier New";
+    font-family:" Courier New ";
 }
 
 .about {
@@ -16,6 +16,6 @@ body {
 }
 
 .music {
-    background-color:blue;
+    background-color: blue;
     padding 15px;
 }
