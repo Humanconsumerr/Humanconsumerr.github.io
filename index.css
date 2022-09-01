@@ -25,6 +25,12 @@ body {
     padding: 10px;
 }
 
+body {
+    text-align: left;
+    margin: 2px;
+    font-family: " Courier New";
+}
+
 .iframe {
     background-color: white;
     padding 10px;
